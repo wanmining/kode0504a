@@ -196,7 +196,7 @@ echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
          goto ulang;
          die();
          }else{
-         echo color("red","-] Nomor udah keregist.");
+         echo color("red","-] Nomor sudah keregist.");
          echo"\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n";
          echo color("purple","!] Coba Nomer Fresh Lainnya \n");
          goto ulang;
